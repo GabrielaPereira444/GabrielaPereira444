@@ -13,4 +13,4 @@ Sou estudante do **1º semestre de Análise e Desenvolvimento de Sistemas (ADS) 
 - **Programação & Produtividade:** Lógica inicial, NTIC e produção de planilhas.
 
 ### 📬 Vamos nos conectar?
-- [Meu LinkedIn](](https://www.linkedin.com/in/gabriela-pereira-santos-75952642b/))
+- [Meu LinkedIn](https://www.linkedin.com/in/gabriela-pereira-santos-75952642b/)
