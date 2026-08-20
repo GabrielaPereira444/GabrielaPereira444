@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou a Gabriela! 👋
 
-<!--
-**GabrielaPereira444/GabrielaPereira444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do **1º semestre de Análise e Desenvolvimento de Sistemas (ADS) na Universidade Cruzeiro do Sul** e possuo formação profissional de 2 anos em TI pela ENETT. Meu interesse une a lógica da programação, a prática do hardware e o visual do design.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
+- 🎓 Graduação: ADS na Cruzeiro do Sul (1º Semestre).
+- 📜 Técnico/Profissional: Treinamento Profissional de Informática e TI (360h) - ENETT.
+- 💡 Buscando: Minhas primeiras oportunidades no mercado de tecnologia e desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Competências Desenvolvidas (ENETT + Faculdade)
+- **Hardware & Robótica:** Manutenção de computadores e conceitos de robótica.
+- **Design & Web:** Projetos de Web Design e Ilustrações Digitais.
+- **Programação & Produtividade:** Lógica inicial, NTIC e produção de planilhas.
+
+### 📬 Vamos nos conectar?
+- [Meu LinkedIn](](https://www.linkedin.com/in/gabriela-pereira-santos-75952642b/))
