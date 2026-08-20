@@ -9,7 +9,7 @@ Sou estudante do **1º semestre de Análise e Desenvolvimento de Sistemas (ADS) 
 
 🖼️ **Projeto de Controle de Dados (ENETT):**
 
-![Minha Planilha](Captura de tela 2026-08-19 220602.png)
+<img src="Captura de tela 2026-08-19 220602.png" width="100%">
 
 ### 🛠️ Competências Desenvolvidas (ENETT + Faculdade)
 - **Hardware & Robótica:** Manutenção de computadores e conceitos de robótica.
