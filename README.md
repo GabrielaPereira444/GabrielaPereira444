@@ -7,6 +7,9 @@ Sou estudante do **1º semestre de Análise e Desenvolvimento de Sistemas (ADS) 
 - 📜 Técnico/Profissional: Treinamento Profissional de Informática e TI (360h) - ENETT.
 - 💡 Buscando: Minhas primeiras oportunidades no mercado de tecnologia e desenvolvimento.
 
+🖼️ **Projeto de Controle de Dados (ENETT):**
+![Minha Planilha](./Captura de tela 2026-08-19 220602.png)
+
 ### 🛠️ Competências Desenvolvidas (ENETT + Faculdade)
 - **Hardware & Robótica:** Manutenção de computadores e conceitos de robótica.
 - **Design & Web:** Projetos de Web Design e Ilustrações Digitais.
